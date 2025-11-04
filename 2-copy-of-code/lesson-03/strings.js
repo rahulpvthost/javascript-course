@@ -7,7 +7,7 @@ alert('hello');
 typeof 2
 typeof 'hello'
 
-'hello' + 3
+'hello' + 3  // 'hello3'
 '$' + 20.95 + 7.99
 '$' + (20.95 + 7.99)
 '$' + (2095 + 799) / 100
